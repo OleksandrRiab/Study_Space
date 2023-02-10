@@ -1,0 +1,29 @@
+*{
+    border-radius: 20px;
+    color: blue;
+ }
+ .Title{
+    background-color: darkorange;
+    max-width: 510px;
+    text-align: center;
+    padding: 20px;
+ }
+ p{
+    font-size: 17px;
+ }
+ .TestingLevels{
+    background-color: darkorange;
+    width: 110px;
+    height: 110px;
+    list-style-type: disc;
+    margin-left: 190px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ li{
+    padding-bottom: 10px; 
+ }
+ #ImgId{
+    border: 20px solid darkorange;
+    min-width: 500px;
+ }
+  
